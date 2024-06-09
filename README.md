@@ -12,8 +12,6 @@ Welcome to my GitHub repository! This repository contains a collection of projec
 - [Activity 2: Statistical Simulations](#activity-2-statistical-simulations)
 - [Activity 3: Linear Regression Analysis](#activity-3-linear-regression-analysis)
 - [Conclusions](#conclusions)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -62,30 +60,33 @@ This activity involved performing various statistical simulations to understand 
 
 ### Overview
 
-In this activity, I built a linear regression model to predict real estate prices based on the area of the property. The data was sourced from Fincaraiz for apartments in a specific price range and area.
+In this activity, I built multiple linear regression models to predict real estate prices based on the area of the property. The data was sourced from Fincaraiz for apartments in a specific price range and area.
 
 ### Key Learnings
 
 - **Exploratory Data Analysis:** Conducted thorough analysis to understand relationships between variables.
-- **Linear Regression:** Built and interpreted a linear regression model.
+- **Linear Regression:** Built and interpreted multiple linear regression models.
+- **Model Comparison:** Compared different models to find the best fit.
 - **Model Validation:** Validated model assumptions and performed hypothesis testing.
-- **Predictive Modeling:** Predicted property prices and evaluated the model's performance.
+- **Predictive Modeling:** Predicted property prices and evaluated the models' performance.
 
 ### Analysis Steps
 
 1. **Exploratory Analysis:** Examined distributions and relationships between price and area.
-2. **Model Estimation:** Estimated and interpreted the linear regression model.
+2. **Model Estimation:** Estimated and interpreted several linear regression models.
 3. **Confidence Intervals:** Constructed and interpreted intervals for model coefficients.
 4. **Model Validation:** Checked assumptions and improved model fit.
+5. **Model Comparison:** Compared the fit and assumptions of multiple models to select the best one.
+6. **Predictive Analysis:** Predicted prices using the best-fitting model and assessed its accuracy.
+
+### Report Highlights
+
+- **Introduction:** Background and objectives of the analysis.
+- **Methods:** Statistical techniques and tools used for model estimation.
+- **Results:** Key findings from the models, including the best-fitting model.
+- **Discussion:** Interpretation of results, including model comparison and validation.
+- **Conclusions:** Summary of insights, model recommendations, and potential business implications.
 
 ## Conclusions
 
 Through these activities, I have developed a deeper understanding of statistical analysis and data science techniques using R. Each project provided practical experience with real-world data, enhancing my skills in data manipulation, visualization, and modeling.
-
-## Contributing
-
-Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
-
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
