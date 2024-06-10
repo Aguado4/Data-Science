@@ -7,11 +7,16 @@ Welcome to my GitHub repository! This repository contains a collection of projec
 
 ## Table of Contents
 
+- [Instructions](#instruction)
 - [Introduction](#introduction)
 - [Activity 1: Real Estate Market Report](#activity-1-real-estate-market-report)
 - [Activity 2: Statistical Simulations](#activity-2-statistical-simulations)
 - [Activity 3: Linear Regression Analysis](#activity-3-linear-regression-analysis)
 - [Conclusions](#conclusions)
+
+## Instruction
+
+In order to visualize the activities, you need to download them and just click in the file. This will automatically open a tab in your default browser showing the activity.
 
 ## Introduction
 
