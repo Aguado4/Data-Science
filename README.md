@@ -16,7 +16,7 @@ Welcome to my GitHub repository! This repository contains a collection of projec
 
 ## Instruction
 
-In order to visualize the activities, you need to download them and just click in the file. This will automatically open a tab in your default browser showing the activity.
+In order to visualize the activities, you will need to download them and just click in the file. This will automatically open a tab in your default browser showing you the activity.
 
 ## Introduction
 
